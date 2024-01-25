@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dustinyansberg&label=Profile%20views&color=0e75b6&style=flat" alt="dustinyansberg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dustinyansberg" alt="dustinyansberg" /></a> </p>
-
 - 🔭 I’m currently working on **nextPlayer, a multiplayer game focused social platform.**
 
 - 🌱 I’m currently learning **MultiCloud with Terraform**
