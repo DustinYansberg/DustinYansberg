@@ -65,13 +65,22 @@ Let's work together to create impactful software solutions that drive success an
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/158c17e3fdf653e89569c463e9267c4a28fd4033b1927d78c0eb63659189797b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732532305465726d696e616c2d2532333444344434442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f77732d7465726d696e616c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/158c17e3fdf653e89569c463e9267c4a28fd4033b1927d78c0eb63659189797b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732532305465726d696e616c2d2532333444344434442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f77732d7465726d696e616c266c6f676f436f6c6f723d7768697465" alt="Windows Terminal" data-canonical-src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&amp;logo=windows-terminal&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
 
-## About Me:
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<a href="https://www.linkedin.com/in/dustin-yansberg/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
+</a>
+<a href="https://www.discordapp.com/users/428031771238596608">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50">
+</a>
+<a href="https://www.github.com/dustinyansberg">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40">
+</a>
+<a href="mailto:DustinYansberg@gmail.com">
+    <img src="https://media.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" width="40">
+</a>
+</div>
+</div>
 
-<p>**Background:** </p>
-
-📫 How to reach me **DustinYansberg@gmail.com**
-
-⚡ Fun fact **When I am not working on projects or DSA, you can find me taking a hike in the beautiful PNW or building out technical blueprints on Factorio.**
 
 
 
