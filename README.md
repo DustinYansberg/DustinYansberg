@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dustinyansberg&label=Profile%20views&color=0e75b6&style=flat" alt="dustinyansberg" /> </p>
 
-- 🔭 I’m currently working on **nextPlayer, a multiplayer game focused social platform.**
+- 🔭 I’m currently working on **Freak Searck**, an open source API and search engine for the podcast Freakonomics.
 
 - 🌱 I’m currently learning **MultiCloud with Terraform**
 
