@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dustin</h1>
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+
+</div>
 <p>I am a software developer with expertise in building responsive web apps with React. I also am comfortable and well versed in Python, Java, C++, C#, MySQL, and other technologies. With a solid foundation in computer science, and certifications in both ITIL4 and CompTIA Project+, I bring a comprehensive understanding of IT Business structures, project management, and Agile development methodologies.
 
 As a dedicated software engineer, I am passionate about enhancing user experiences and driving technological advancements. I am seeking opportunities to apply my expertise, collaborate with dynamic teams, and contribute to cutting-edge projects. With exceptional communication skills and a keen eye for detail, I am committed to delivering high-quality work that exceeds client expectations.
 
-Let's work together to create impactful software solutions that drive success and provide unparalleled user experiences.</p>
+Let's [work together](#contact) to create impactful software solutions that drive success and provide unparalleled user experiences.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dustinyansberg&label=Profile%20views&color=0e75b6&style=flat" alt="dustinyansberg" /> </p>
 
@@ -63,8 +69,12 @@ Let's work together to create impactful software solutions that drive success an
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d47610ee883284eef17c8a534a7e3948299bbdbcc35dd6da85e792448f9e440d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56494d2d2532333131414230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76696d266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d47610ee883284eef17c8a534a7e3948299bbdbcc35dd6da85e792448f9e440d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56494d2d2532333131414230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76696d266c6f676f436f6c6f723d7768697465" alt="Vim" data-canonical-src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&amp;logo=vim&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/158c17e3fdf653e89569c463e9267c4a28fd4033b1927d78c0eb63659189797b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732532305465726d696e616c2d2532333444344434442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f77732d7465726d696e616c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/158c17e3fdf653e89569c463e9267c4a28fd4033b1927d78c0eb63659189797b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732532305465726d696e616c2d2532333444344434442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f77732d7465726d696e616c266c6f676f436f6c6f723d7768697465" alt="Windows Terminal" data-canonical-src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&amp;logo=windows-terminal&amp;logoColor=white" style="max-width: 100%;"></a></p>
+<hr>
 
-
+<br>
+<br>
+<div align="center" id="contact">
+<h3>Call me, beep me, if you wanna reach me:</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 <a href="https://www.linkedin.com/in/dustin-yansberg/">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
@@ -78,7 +88,6 @@ Let's work together to create impactful software solutions that drive success an
 <a href="mailto:DustinYansberg@gmail.com">
     <img src="https://media.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" width="40">
 </a>
-</div>
 </div>
 
 
