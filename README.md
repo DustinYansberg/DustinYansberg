@@ -5,6 +5,10 @@
 
 
 </div>
+
+<div align="center">
+<h2>Nice to meet you</h2>
+</div>
 <p>I am a software developer with expertise in building responsive web apps with React. I also am comfortable and well versed in Python, Java, C++, C#, MySQL, and other technologies. With a solid foundation in computer science, and certifications in both ITIL4 and CompTIA Project+, I bring a comprehensive understanding of IT Business structures, project management, and Agile development methodologies.
 
 As a dedicated software engineer, I am passionate about enhancing user experiences and driving technological advancements. I am seeking opportunities to apply my expertise, collaborate with dynamic teams, and contribute to cutting-edge projects. With exceptional communication skills and a keen eye for detail, I am committed to delivering high-quality work that exceeds client expectations.
